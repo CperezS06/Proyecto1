@@ -1,0 +1,7 @@
+2021-04-26 11:08:03.146  INFO 9676 --- [main] c.k.e.spring.SpringDemoApplication       : Starting SpringDemoApplication using Java 16 on DESKTOP-8SJMMCQ with PID 9676 (C:\Users\cesar\Desktop\Proyectos prueba\Ejemplo-spring\target\classes started by cesar in C:\Users\cesar\Desktop\Proyectos prueba\Ejemplo-spring)
+2021-04-26 11:08:03.151  INFO 9676 --- [main] c.k.e.spring.SpringDemoApplication       : No active profile set, falling back to default profiles: default
+2021-04-26 11:08:07.086  INFO 9676 --- [main] c.k.e.spring.SpringDemoApplication       : Started SpringDemoApplication in 4.462 seconds (JVM running for 4.977)
+2021-04-26 11:08:12.222  WARN 9676 --- [http-nio-8080-exec-2] c.k.e.spring.servicio.AlumnoService      : La calificacion 5.0 es reprobatoria, cambiar por 0
+2021-04-26 11:08:12.224  INFO 9676 --- [http-nio-8080-exec-2] c.k.e.spring.servicio.AlumnoService      : La calificacion 5.0 es reprobatoria, cambiar por 0
+2021-04-26 11:08:12.224 ERROR 9676 --- [http-nio-8080-exec-2] c.k.e.spring.servicio.AlumnoService      : La calificacion 5.0 es reprobatoria, cambiar por 0
+2021-04-26 11:08:12.225 ERROR 9676 --- [http-nio-8080-exec-2] c.k.e.spring.servicio.AlumnoService      : La calificacion 5.0 es reprobatoria, cambiar por 0
