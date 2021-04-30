@@ -6,6 +6,10 @@ import lombok.NoArgsConstructor;
 
 import javax.persistence.*;
 
+/** This class is used to define objects of type Alumno to use them for make an entity
+ * and save it to the database
+ *
+ */
 @Data
 @NoArgsConstructor
 @AllArgsConstructor

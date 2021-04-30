@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"com.ks.example.spring.modelo","l":"Alumno"},{"p":"com.ks.example.spring.repositorio","l":"AlumnoRepo"},{"p":"com.ks.example.spring.servicio","l":"AlumnoService"},{"p":"com.ks.example.spring.controlador","l":"EscuelaController"},{"p":"com.ks.example.spring","l":"SpringDemoApplication"}];updateSearchResults();
